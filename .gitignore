@@ -1,0 +1,2 @@
+notas/borrador.txt > .gitignore
+echo notas/borrador.txt
