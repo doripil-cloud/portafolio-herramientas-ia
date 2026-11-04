@@ -5,7 +5,7 @@
 Proyecto integrador · Herramientas de IA
 Grupo: B1 · Equipo: 4
 
-## 👥 Integrantes
+##  Integrantes
 
 | Integrante | Participación |
 |---|---|
@@ -21,7 +21,7 @@ Estudiantes (de cualquier nivel) que graban clases largas o de mucha teoría y n
 - **Entrada:** un archivo de audio (MP3, M4A o WAV) con la grabación de una clase, reunión o discurso.
 - **Salida:** la transcripción completa en texto y un resumen corto de su contenido.
 
-### 🔀 Cómo funciona
+###  Cómo funciona
 
 ```mermaid
 flowchart TD
