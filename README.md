@@ -1,7 +1,7 @@
 # Portafolio de Paulina Ramírez
 
 **Herramientas de Procesamiento para IA**  
-Grupo: [A/B]  
+Grupo: [B1]  
 Ibero León · Otoño 2026
 
 ## Sobre mí
