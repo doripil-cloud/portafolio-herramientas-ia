@@ -25,10 +25,10 @@ Estudiantes (de cualquier nivel) que graban clases largas o de mucha teoría y n
 
 ```mermaid
 flowchart TD
-    A([Audio de la clase]) -->|openai/whisper-small| B[Transcripción]
-    B -->|sshleifer/distilbart-cnn-12-6| C[Resumen]
-    B --> D[(Texto completo para el usuario)]
-    C --> E[(Resumen para el usuario)]
+    A(["Archivo de audio"]) -->|Entrada| B["Whisper Small"]
+    B --> C["Procesamiento y reconocimiento del habla"]
+    C --> D["Conversión de voz a texto"]
+    D --> E[("Transcripción final")]
 ```
 
 ## 2. Modelo abierto elegido
