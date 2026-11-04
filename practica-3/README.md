@@ -7,10 +7,12 @@ Grupo: B1 · Equipo: 4
 
 ## 👥 Integrantes
 
-- Fernanda Narahi Rayas Flores
-- Paulina Alejandra Ramírez Olmos
-- Luciano Nery Reynoso Orozco
-- Jorge Andrés Ruiz López
+| Integrante | Participación |
+|---|---|
+| Fernanda Narahi Rayas Flores | Desarrollo del proyecto |
+| Paulina Alejandra Ramírez Olmos | Desarrollo del proyecto |
+| Luciano Nery Reynoso Orozco | Desarrollo del proyecto |
+| Jorge Andrés Ruiz López | Desarrollo del proyecto |
 
 ## 1. Caso de uso
 
