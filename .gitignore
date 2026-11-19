@@ -1,2 +1,4 @@
 notas/borrador.txt > .gitignore
 echo notas/borrador.txt
+.venv/
+.venv/
